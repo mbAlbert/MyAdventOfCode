@@ -1,2 +1,2 @@
 # MyAdventOfCode
-Some Advent of Code fun in some language I might be trying to learn
+Advent of Code fun in some language I might be trying to learn
