@@ -1,4 +1,5 @@
 mod part1;
+mod part2;
 
 use std::collections::HashMap;
 
@@ -33,5 +34,6 @@ fn main() {
         });
 
         println!("Part 1. {}", part1::result(&mut wires, &operations));
+        println!("Part 2. {:?}", part2::result(&operations));
 }
                                                        
